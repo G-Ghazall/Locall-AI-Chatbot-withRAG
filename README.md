@@ -1,4 +1,4 @@
-Context-Aware AI Chatbot with Private Document Retrieval
+## Context-Aware AI Chatbot with Private Document Retrieval
 
 This project is a private, local, AI assistant designed for organizations to build their own chatbot based on internal documents. It uses a Retrieval-Augmented Generation (RAG) architecture, combining document search with a LLM for smart, context-aware answers.
 
