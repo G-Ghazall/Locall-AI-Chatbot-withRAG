@@ -3,7 +3,6 @@ from langchain_chroma import Chroma
 from langchain_core.documents import Document
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-
 import os
 
 pdf_files = [
